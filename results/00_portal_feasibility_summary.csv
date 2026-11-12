@@ -1,0 +1,12 @@
+,value
+n_bins,125587.0
+grid_step_coord_units,50.0
+n_GLUL_9of9_bins,862.0
+portal_top1pct_bins,1256.0
+portal_candidate_foci,19.0
+portal_foci_ge5_bins,19.0
+median_dist_portal_to_CV_bins,23.345235059857504
+median_dist_random_to_CV_bins,32.28000991800061
+spearman_portal_vs_periportal,0.4787098768989681
+spearman_portal_vs_pericentral,0.11943970027666645
+spearman_periportal_vs_pericentral,0.3775547703543741

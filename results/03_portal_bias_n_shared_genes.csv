@@ -1,0 +1,7 @@
+,Cow Stereo-seq (this study),Cow Visium (n=2),Pig Visium (n=5),Mouse Visium (n=6),Human Visium (n=5),Mouse scRNA (Halpern 2017)
+Cow Stereo-seq (this study),4946,2587,1816,1443,1793,1557
+Cow Visium (n=2),2587,2985,1497,1206,1484,1190
+Pig Visium (n=5),1816,1497,2688,1170,1545,1074
+Mouse Visium (n=6),1443,1206,1170,1705,1191,1222
+Human Visium (n=5),1793,1484,1545,1191,2569,1091
+Mouse scRNA (Halpern 2017),1557,1190,1074,1222,1091,2006

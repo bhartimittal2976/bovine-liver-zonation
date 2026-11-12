@@ -1,0 +1,11 @@
+# downloaded reference tables (re-created by scripts/03a_fetch_references.sh)
+data/reference/
+# run logs
+logs/
+# large / local files
+*.h5ad
+*.gef
+*.zip
+__pycache__/
+.DS_Store
+~$*

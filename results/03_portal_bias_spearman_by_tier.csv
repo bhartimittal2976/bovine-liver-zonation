@@ -1,0 +1,46 @@
+tier,a,b,n,spearman
+5e-05,Cow Stereo-seq (this study),Cow Visium (n=2),2741,0.06265469023482367
+5e-05,Cow Stereo-seq (this study),Pig Visium (n=5),1920,0.023427947571600355
+5e-05,Cow Stereo-seq (this study),Mouse Visium (n=6),1554,0.05198553036675703
+5e-05,Cow Stereo-seq (this study),Human Visium (n=5),1922,0.3111656429372553
+5e-05,Cow Stereo-seq (this study),Mouse scRNA (Halpern 2017),1654,-0.06432545865639297
+5e-05,Cow Visium (n=2),Pig Visium (n=5),1599,0.05507535216393852
+5e-05,Cow Visium (n=2),Mouse Visium (n=6),1315,0.08478782957551245
+5e-05,Cow Visium (n=2),Human Visium (n=5),1610,0.14070704094412428
+5e-05,Cow Visium (n=2),Mouse scRNA (Halpern 2017),1283,0.10950194041007319
+5e-05,Pig Visium (n=5),Mouse Visium (n=6),1260,0.1957427476813669
+5e-05,Pig Visium (n=5),Human Visium (n=5),1545,0.03623951100796299
+5e-05,Pig Visium (n=5),Mouse scRNA (Halpern 2017),1148,0.10524623664294942
+5e-05,Mouse Visium (n=6),Human Visium (n=5),1297,0.24884897945121673
+5e-05,Mouse Visium (n=6),Mouse scRNA (Halpern 2017),1322,0.5745473867136419
+5e-05,Human Visium (n=5),Mouse scRNA (Halpern 2017),1177,0.08813731665593005
+0.0002,Cow Stereo-seq (this study),Cow Visium (n=2),656,0.2145724672242017
+0.0002,Cow Stereo-seq (this study),Pig Visium (n=5),575,0.15467504923496442
+0.0002,Cow Stereo-seq (this study),Mouse Visium (n=6),453,0.017844727275262113
+0.0002,Cow Stereo-seq (this study),Human Visium (n=5),485,0.4811522493496877
+0.0002,Cow Stereo-seq (this study),Mouse scRNA (Halpern 2017),499,0.08410836130091508
+0.0002,Cow Visium (n=2),Pig Visium (n=5),373,0.27687058250060925
+0.0002,Cow Visium (n=2),Mouse Visium (n=6),290,0.2522979690192716
+0.0002,Cow Visium (n=2),Human Visium (n=5),362,0.19257788226318356
+0.0002,Cow Visium (n=2),Mouse scRNA (Halpern 2017),264,0.30283899327589686
+0.0002,Pig Visium (n=5),Mouse Visium (n=6),308,0.4154246499839619
+0.0002,Pig Visium (n=5),Human Visium (n=5),385,0.1400317946302402
+0.0002,Pig Visium (n=5),Mouse scRNA (Halpern 2017),282,0.3864459392318187
+0.0002,Mouse Visium (n=6),Human Visium (n=5),292,0.26206215450373616
+0.0002,Mouse Visium (n=6),Mouse scRNA (Halpern 2017),339,0.7687554866948612
+0.0002,Human Visium (n=5),Mouse scRNA (Halpern 2017),255,0.27519033696155626
+0.001,Cow Stereo-seq (this study),Cow Visium (n=2),141,0.34281005180016266
+0.001,Cow Stereo-seq (this study),Pig Visium (n=5),102,0.18976991931060608
+0.001,Cow Stereo-seq (this study),Mouse Visium (n=6),89,0.06411304051753491
+0.001,Cow Stereo-seq (this study),Human Visium (n=5),100,0.532013201320132
+0.001,Cow Stereo-seq (this study),Mouse scRNA (Halpern 2017),94,0.2464545027634288
+0.001,Cow Visium (n=2),Pig Visium (n=5),69,0.506795761782974
+0.001,Cow Visium (n=2),Mouse Visium (n=6),52,0.2993255357295313
+0.001,Cow Visium (n=2),Human Visium (n=5),74,0.3140614587189929
+0.001,Cow Visium (n=2),Mouse scRNA (Halpern 2017),41,0.584843205574913
+0.001,Pig Visium (n=5),Mouse Visium (n=6),42,0.7157442670772223
+0.001,Pig Visium (n=5),Human Visium (n=5),68,0.3555368935374279
+0.001,Pig Visium (n=5),Mouse scRNA (Halpern 2017),47,0.6495143385753932
+0.001,Mouse Visium (n=6),Human Visium (n=5),51,0.32506787330316744
+0.001,Mouse Visium (n=6),Mouse scRNA (Halpern 2017),65,0.8736888111888111
+0.001,Human Visium (n=5),Mouse scRNA (Halpern 2017),46,0.49034844279987666

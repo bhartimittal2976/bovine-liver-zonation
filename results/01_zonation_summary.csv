@@ -1,0 +1,17 @@
+,value
+genes_tested,5524
+zonated_FDR_and_effect,315
+robust_zonated_non_landmark,306
+robust_periportal,209
+robust_pericentral,97
+robust_sign_stable_all_variants,301
+robust_parenchymal_gradient_PP,107
+robust_parenchymal_gradient_PC,73
+robust_boundary_restricted_PP,102
+robust_boundary_restricted_PC,24
+interior_FDR05_any_effect,305
+parenchymal_zonated_PP,62
+parenchymal_zonated_PC,72
+zonated_same_sign_both_halves_pct,98.73015873015873
+validation_markers_agree,12/14 tested
+median_dispersion,1.2661214844364628

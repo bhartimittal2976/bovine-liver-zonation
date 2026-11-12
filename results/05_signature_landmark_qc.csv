@@ -1,0 +1,10 @@
+,value
+tissue_area_mm2,78.369375
+signature_PC_genes,72.0
+signature_PP_genes,62.0
+signature_CV_peaks,94.0
+signature_PT_peaks,118.0
+marker_CV_recalled_by_signature,0.5227272727272727
+marker_PT_recalled_by_signature,0.6956521739130435
+signature_CV_peaks_new,0.7446808510638298
+signature_PT_peaks_new,0.864406779661017

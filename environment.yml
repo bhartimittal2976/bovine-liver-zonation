@@ -1,0 +1,13 @@
+name: bovine-liver-zonation
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy=2.4
+  - scipy=1.17
+  - pandas=2.3
+  - anndata=0.12
+  - matplotlib=3.11
+  - scikit-learn=1.9
+  - scikit-image=0.26
+  - openpyxl          # only for scripts/03a_fetch_references.sh (xlsx -> csv)
